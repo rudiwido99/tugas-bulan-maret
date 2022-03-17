@@ -1,6 +1,6 @@
 Tugas Bulan Maret
 1) Membiasakan diri berolahraga
-2) Disiplin bangun pagi
-3) Mengerjakan tugas dengan tepat waktu
-4) Mengembangkan kompetensi dengan membaca buku
-5) Upload konten digital sehari 2x
+2) Mengerjakan tugas dengan tepat waktu
+3) Mengembangkan kompetensi dengan membaca buku
+4) Upload konten digital sehari 2x
+5) Melaporkan permasalahan yang dialami setiap ada kendala
